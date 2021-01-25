@@ -38,8 +38,8 @@ console.log("Array length: ", pens.length);
 // console.log("The value is : ", pens[result]);
 
 // Return the items in an array as a comma separated string. The separator argument can be used to change the comma to something else. Arguments: pens.join(separator):
-var arrayString = pens.join(" | ");
-console.log("String from array: ", arrayString);
+// var arrayString = pens.join(" | ");
+// console.log("String from array: ", arrayString);
 
 // MDN documentation for Array:
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
