@@ -24,3 +24,5 @@ console.log(course01);
 console.log(course02);
 
 console.log(courses);
+console.log(course01.views);
+console.log(course02["views"]);
