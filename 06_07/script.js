@@ -14,7 +14,7 @@ let minPosition = (min*360/60)+(sec*(360/60)/60);
 let secPosition = sec*360/60;
 
 function runTheClock() {
-
+// relying on the browser to not throttle the JS
     secPosition += 6;
     minPosition += 1/10;
     hrPosition += 1/120;
